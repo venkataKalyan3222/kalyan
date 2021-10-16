@@ -1,0 +1,10 @@
+
+> let brandname="forml"
+undefined
+> let price=479;
+undefined
+> let size=38;
+undefined
+> console.log(price);
+479
+undefined
