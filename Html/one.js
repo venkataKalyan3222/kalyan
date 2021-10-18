@@ -10,3 +10,5 @@ console.log(typeof price);
 console.log(typeof rating);
 console.log(typeof stock);
 console.log(typeof size);
+console.log(typeof stock);
+console.log(typeof size);
